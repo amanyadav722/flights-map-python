@@ -1,0 +1,2 @@
+class FlightPathBroken(Exception):
+    pass
